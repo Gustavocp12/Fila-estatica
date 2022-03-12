@@ -1,0 +1,14 @@
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+C:\Users\Lab_03_alu_18\Desktop\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe.config
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.exe
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\bin\Debug\FilaEstatica.pdb
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csprojAssemblyReference.cache
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.csproj.CoreCompileInputs.cache
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.exe
+D:\Faculdade\Estrutura de dados\FilaEstatica\FilaEstatica\obj\Debug\FilaEstatica.pdb
